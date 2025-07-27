@@ -1,0 +1,2 @@
+age       gender          salary
+29 female 7
